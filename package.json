@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.8.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "vue-draggable-nested-tree": "^2.2.18",
+    "vuedraggable": "^2.23.2"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0"

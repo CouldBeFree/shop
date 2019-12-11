@@ -2,6 +2,10 @@
   <v-app>
     <v-content>
       <v-container>
+        <nuxt-link :to="'/'">Home</nuxt-link>
+        <nuxt-link :to="'/api-test'">Api test</nuxt-link>
+        <nuxt-link :to="'/drag'">Drag</nuxt-link>
+        <nuxt-link :to="'/slots'">Slots</nuxt-link>
         <nuxt />
       </v-container>
     </v-content>
